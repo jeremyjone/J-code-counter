@@ -19,7 +19,7 @@
 
 ## 界面
 
-![alt](.\img\main.png)
+![alt](.\\img\\main.png)
 
 ## 功能介绍
 
@@ -49,7 +49,7 @@
 
 ## 下载
 
-下载地址：[JCodeCounder.exe](.\dist\JCodeCounder.exe)，目前仅有Windows版本
+下载地址：[JCodeCounder.exe](.\\dist\\JCodeCounder.exe)，目前仅有Windows版本
 
 ## 版本
 
