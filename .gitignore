@@ -1,0 +1,5 @@
+.vscode
+*.pyc
+*.spec
+
+pyinstaller-readme.txt
